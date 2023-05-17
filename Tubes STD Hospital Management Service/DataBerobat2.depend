@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1608944840 source:d:\databerobat2\databerobat2\listrelasi.cpp
+	"ListRelasi.h"
+
+1608959063 source:d:\databerobat2\databerobat2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ListParent.h"
+	"ListRelasi.h"
+
+1608903180 source:d:\databerobat2\databerobat2\listparent.cpp
+	"ListParent.h"
+
+1608903151 d:\databerobat2\databerobat2\listparent.h
+	<iostream>
+
+1608955405 d:\databerobat2\databerobat2\listrelasi.h
+	"ListRelasi.h"
+	"ListParent.h"
+	<iostream>
+
+1608903180 source:e:\std\file std\file std\databerobat2\databerobat2\databerobat2\listparent.cpp
+	"ListParent.h"
+
+1608903151 e:\std\file std\file std\databerobat2\databerobat2\databerobat2\listparent.h
+	<iostream>
+
+1608944840 source:e:\std\file std\file std\databerobat2\databerobat2\databerobat2\listrelasi.cpp
+	"ListRelasi.h"
+
+1608955405 e:\std\file std\file std\databerobat2\databerobat2\databerobat2\listrelasi.h
+	"ListRelasi.h"
+	"ListParent.h"
+	<iostream>
+
+1608959278 source:e:\std\file std\file std\databerobat2\databerobat2\databerobat2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ListParent.h"
+	"ListRelasi.h"
+
+1641295739 source:d:\shidqi\kuliah\semester3\std\joki\kamil\2\tubes std hospital management service\listparent.cpp
+	"ListParent.h"
+
+1640006030 d:\shidqi\kuliah\semester3\std\joki\kamil\2\tubes std hospital management service\listparent.h
+	<iostream>
+
+1641802639 source:d:\shidqi\kuliah\semester3\std\joki\kamil\2\tubes std hospital management service\listrelasi.cpp
+	"ListRelasi.h"
+
+1641802498 d:\shidqi\kuliah\semester3\std\joki\kamil\2\tubes std hospital management service\listrelasi.h
+	"ListParent.h"
+	<iostream>
+
+1641802877 source:d:\shidqi\kuliah\semester3\std\joki\kamil\2\tubes std hospital management service\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"ListParent.h"
+	"ListRelasi.h"
+

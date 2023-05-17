@@ -1,0 +1,29 @@
+#include "ListRelasi.h" (listRelasi.h)
+//void printReviewEachReviewer(List_relasi LR,List_parent2 LP2) (listRelasi.h)
+/*void printReviewEachReviewer(List_relasi LR,List_parent2 LP2){
+    address_parent2 P2=first(LP2);
+    address_relasi R=first(LR);
+    while (P2!=NULL) {
+            cout<<"### "<<info(P2).name<<" : "<<endl;
+        while (R!=NULL){
+            if (parent2(R)==P2) {
+                cout<<"   "<<info(parent1(R)).title<<" : "<<review(R)<<endl;
+            }
+            R=next(R);
+        }
+        R=first(LR);
+        P2=next(P2);
+    }
+}*/ (listRelasi.cpp)
+
+seharusnya parent nunjuk child
+
+/*cin.ignore(256, '\n');
+                    getline(cin,movie);
+                    P1=findMovie(LP1,movie);
+
+                    R=findReview2(LR,P1,P2);//??? */ (main.cpp)
+
+ /*getline(cin,review);
+                        review(R)=review;*/ (main.cpp)
+//cin.ignore(256, '\n'); (main.cpp)
